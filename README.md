@@ -1,2 +1,2 @@
 # todo_flask
-todo app with flask
+I created a to-do list project with flask
